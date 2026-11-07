@@ -1,0 +1,91 @@
+
+[
+  {
+    "id": 1,
+    "name": "پکیج دیواری لورچ",
+    "brand": "لورچ",
+    "category": "package",
+    "code": "LOR-001",
+    "image": "assets/lorch-images/products/lorch-boiler.jpg"
+  },
+  {
+    "id": 2,
+    "name": "رادیاتور پنلی لورچ",
+    "brand": "لورچ",
+    "category": "radiator",
+    "code": "LOR-002",
+    "image": "assets/lorch-images/products/panel-radiator-room.jpg"
+  },
+  {
+    "id": 3,
+    "name": "پکیج دیواری ایمرگاس ایتالیایی",
+    "brand": "ایمرگاس",
+    "category": "package",
+    "code": "IMG-001",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "name": "پکیج دیواری بارلی",
+    "brand": "بارلی",
+    "category": "package",
+    "code": "BAR-001",
+    "image": ""
+  },
+  {
+    "id": 5,
+    "name": "رادیاتور بارلی",
+    "brand": "بارلی",
+    "category": "radiator",
+    "code": "BAR-002",
+    "image": ""
+  },
+  {
+    "id": 6,
+    "name": "کولر گازی جنرال",
+    "brand": "جنرال",
+    "category": "cooling",
+    "code": "GEN-001",
+    "image": "assets/lorch-images/products/general-ac.jpg"
+  },
+  {
+    "id": 7,
+    "name": "دستگاه تصفیه آب خانگی C.C.K",
+    "brand": "C.C.K",
+    "category": "water",
+    "code": "WAT-001",
+    "image": "assets/lorch-images/products/water-purifier-ro.jpg"
+  },
+  {
+    "id": 8,
+    "name": "انواع فیلتر تصفیه آب",
+    "brand": "متفرقه",
+    "category": "filter",
+    "code": "FIL-001",
+    "image": "assets/lorch-images/products/refrigerator-water-filter.jpg"
+  },
+  {
+    "id": 9,
+    "name": "فیلتر جامبو ورودی ساختمان C.C.K",
+    "brand": "C.C.K",
+    "category": "filter",
+    "code": "FIL-002",
+    "image": "assets/lorch-images/products/jumbo-filter-cck.jpg"
+  },
+  {
+    "id": 10,
+    "name": "پمپ آب ورودی ساختمان",
+    "brand": "متفرقه",
+    "category": "pump",
+    "code": "PMP-001",
+    "image": ""
+  },
+  {
+    "id": 11,
+    "name": "مخزن آب",
+    "brand": "متفرقه",
+    "category": "tank",
+    "code": "TNK-001",
+    "image": ""
+  }
+]
